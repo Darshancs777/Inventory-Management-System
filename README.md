@@ -1,6 +1,6 @@
 # Inventory-Management-System
 
-Creating an Inventory Management System involves tracking inventory levels, orders, sales, and deliveries. Here, I'll provide a high-level overview of how you can set up a basic Inventory Management System.
+Creating an Inventory Management System involves tracking products, add products,show products.
 
 ## Steps to create Inventory-Management-System
 Database: To store inventory data.<br>
