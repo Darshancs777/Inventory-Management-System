@@ -2,7 +2,7 @@
 
 Creating an Inventory Management System involves tracking products, add products,show products.
 
-## Steps to create Inventory-Management-System
+## Overview of Inventory-Management-System
 Database: To store inventory data.<br>
 Backend: To manage the business logic.<br>
 Frontend: To provide a user interface for interacting with the system.
