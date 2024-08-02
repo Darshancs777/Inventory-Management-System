@@ -13,3 +13,5 @@ Add Product Page:
 ![](https://github.com/Darshancs777/Inventory-Management-System/blob/main/upload%20images/add%20products.png)
 Added Product Page:
 ![](https://github.com/Darshancs777/Inventory-Management-System/blob/main/upload%20images/added%20product.png)
+List of Products Page:
+![](https://github.com/Darshancs777/Inventory-Management-System/blob/main/upload%20images/list%20of%20products.png)
