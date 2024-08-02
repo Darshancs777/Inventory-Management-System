@@ -9,5 +9,7 @@ Frontend: To provide a user interface for interacting with the system.
 
 Home page:
 ![images](https://github.com/Darshancs777/Inventory-Management-System/blob/main/upload%20images/home.png)
-Add product page:
+Add Product Page:
 ![](https://github.com/Darshancs777/Inventory-Management-System/blob/main/upload%20images/add%20products.png)
+Added Product Page:
+![](https://github.com/Darshancs777/Inventory-Management-System/blob/main/upload%20images/added%20product.png)
